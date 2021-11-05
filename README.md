@@ -1,2 +1,2 @@
 # color_picker
- A custom tool for selecting and grantient colors to a project
+ A custom tool for selecting and gradient colors to a project
